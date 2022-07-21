@@ -13,6 +13,6 @@ function magicTerminalOpen ( window ) {
 
   if ( !/Terminal/.test ( name ) || false ) return;
 
-  setFrame ( 'bottom-left', window );
+//  setFrame ( 'bottom-left', window );
 
 }
